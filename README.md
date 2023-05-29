@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="my-logo.png" alt="logo" width="140"  height="auto" />
+  <img src="rsz_my-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Hello Microverse</b></h3>
